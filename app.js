@@ -7,7 +7,7 @@ const { UserModel, Course, UserGetCourse, Category } = require("./models/");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const uri = "mongodb+srv://nyanjasmin:puFFles0505.@cluster0.9wubz.mongodb.net/test";
+const uri = "mongodb+srv://nyanjasmin:puFFles0505.@cluster0.9wubz.mongodb.net/test?retryWrites=true&w=majority"
 
 
 // buat koneksi
