@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "models",
+			"path": "../materi/23-express-mongoose/models"
+		},
+		{
+			"name": "express-mongoose",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
